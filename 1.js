@@ -1,7 +1,6 @@
 const input = document.getElementById("scope")
 const clear = document.getElementById("clear")
 //на кнопку clear добавляется событие "нажатие мыши"
-//на кнопку clear добавляется событие "нажатие мыши"
 clear.addEventListener(
     "click",
     //когда нажмем, то выполнится функция
